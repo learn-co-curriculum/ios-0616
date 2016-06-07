@@ -7,7 +7,7 @@ Let's Keep Moving!
 Time        |   Plan   |
 ----------------|-------
 9 - 9:30          | Finish up Deploy on Day One
-10:30 - 11:30    | Expectations Talk in Kay
+9:30 - 10:30    | Expectations Talk in Kay
 11:30 - 12:30     | Review Deploy on Day One
 12:30 - 1:30     | Lunch
 2:00 - 3:00     | Logistics Talk in Turing
