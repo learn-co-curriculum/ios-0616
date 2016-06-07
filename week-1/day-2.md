@@ -10,6 +10,7 @@ Time        |   Plan   |
 9:30 - 10:30    | Expectations Talk in Kay
 11:30 - 12:30     | Review Deploy on Day One
 12:30 - 1:30     | Lunch
+1:30 - 2:30     | Icebreaker
 2:00 - 3:00     | Logistics Talk in Turing
 3:15 - 4:15     | Dictionaries & Iteration Lecture in Turing
 4:30 - 6        | Labs (more details to come)
