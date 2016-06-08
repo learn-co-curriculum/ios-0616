@@ -13,3 +13,6 @@ Time        |   Plan   |
 3:00 - 4:00     | Lecture
 4 - 6        | Labs - OO Labs & Readings
 
+## Focus on:
+
+  * Shopping Cart
