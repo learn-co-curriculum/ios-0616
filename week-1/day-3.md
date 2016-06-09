@@ -16,3 +16,15 @@ Time        |   Plan   |
 ## Focus on:
 
   * Shopping Cart
+
+## Videos
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/lAS37vOHKWk?rel=0&modestbranding=1"
+frameborder="0" allowfullscreen></iframe><p><a
+href="https://www.youtube.com/watch?v=lAS37vOHKWk">6-8 Morning</a></p>
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/XZUWmLo4kOU?rel=0&modestbranding=1"
+frameborder="0" allowfullscreen></iframe><p><a
+href="https://www.youtube.com/watch?v=XZUWmLo4kOU">6-8 Afternoon</a></p>
