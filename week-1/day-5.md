@@ -2,7 +2,7 @@
 
 You did it! // :blue_heart:
 
-What are you going to code on the weekend?
+What are you going to code over the weekend?
 
 Time        |   Plan   |
 ----------------|-------
