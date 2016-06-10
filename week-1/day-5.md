@@ -8,7 +8,7 @@ Time        |   Plan   |
 ----------------|-------
 9:00 - 9:30          | Labs
 9:30 - 10:00     | Orientation from Career Services
-10:00 - 11:00    | Guest Lecture in Turing
+11:00 - 12:00    | Guest Lecture in Turing
 12:00 - 1:00     | Lunch
 1:00 - 2:00      | Another Guest Lecture in Kay
 2:00 - 3:00    | Feelings
