@@ -19,3 +19,8 @@ Time        |   Plan   |
 src="https://www.youtube.com/embed/_jTSF8tMeq4?rel=0&modestbranding=1"
 frameborder="0" allowfullscreen></iframe><p><a
 href="https://www.youtube.com/watch?v=_jTSF8tMeq4">6-9 Morning</a></p>
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/CBJBU5nHkos?rel=0&modestbranding=1"
+frameborder="0" allowfullscreen></iframe><p><a
+href="https://www.youtube.com/watch?v=CBJBU5nHkos">6-9 Afternoon</a></p>
