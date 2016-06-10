@@ -12,3 +12,10 @@ Time        |   Plan   |
 1:00 - 4:00    | Labs 
 4:00 - 5:00     | Lecture in Turing - review Shopping Cart
 5:00 - 6:00        | Guest Lecture - Johann Kerr
+
+## Videos
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/_jTSF8tMeq4?rel=0&modestbranding=1"
+frameborder="0" allowfullscreen></iframe><p><a
+href="https://www.youtube.com/watch?v=_jTSF8tMeq4">6-9 Morning</a></p>
