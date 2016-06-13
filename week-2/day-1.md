@@ -1,4 +1,4 @@
-# Day 1 - Monday, June 13, 2016
+# Day 6 - Monday, June 13, 2016
 
 Week 2 Has Begun! // :blue_heart:
 
