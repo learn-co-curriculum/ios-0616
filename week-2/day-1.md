@@ -6,8 +6,8 @@ Let's learn more about OO!
 
 Time        |   Plan   |
 ----------------|-------
-9:00 - 10:30          | Labs
-10:30 - 12:00   | Lecture 
+9:00 - 9:30          | Drink Coffee
+9:30 - 11:00   | Lecture - Review & Initializers 
 12:00 - 1:00    | Lunch
 1:00 - 3:00     | Watch WWDC
 3:00 - 6:00    | Labs 
