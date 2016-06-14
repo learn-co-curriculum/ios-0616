@@ -7,7 +7,7 @@ Time       | Plan     |
 9:00 - 11:00  |  Labs - [Object Oriented People](https://learn.co/tracks/ios-new/objects-in-objective-c/basic-objects/object-oriented-people), [Location Trivia Objects](https://learn.co/tracks/ios-new/objects-in-objective-c/basic-objects/location-trivia-objects)
 11:00 - 12:00   | Lab Review OO People (Turing)
 12:00 - 1:00   | Lunch
-1:00 - 2:00    | Guest Lecture (Turing)
+1:00 - 2:00    | Guest Lecture (Kay)
 3:00 - 4:30    | Lecture (Kay)
 4:30 - 6:00 | Labs
 
