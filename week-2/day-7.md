@@ -10,7 +10,7 @@ Time       | Plan     |
 1:00 - 2:00    | Labs
 2:00 - 3:00    | Guest Lecture (Kay)
 3:00 - 4:30    | Lecture (Kay)
-4:30 - 6:00 | Labs
+4:30 - 6:00 | Labs [OO Vehicle](https://learn.co/lessons/OO-Vehicle)
 
 ## Videos
 
