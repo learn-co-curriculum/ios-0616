@@ -8,7 +8,7 @@ Time       | Plan     |
 11:00 - 12:00   | Lab Review OO People (Turing)
 12:00 - 1:00   | Lunch
 1:00 - 2:00    | Guest Lecture (Turing)
-3:00 - 4:30    | Lecture
+3:00 - 4:30    | Lecture (Kay)
 4:30 - 6:00 | Labs
 
 ## Videos
