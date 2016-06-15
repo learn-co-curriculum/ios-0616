@@ -4,11 +4,11 @@ Week 2 // :blue_heart:
 
 Time       | Plan     |
 ----------------|-------
-9:00 - 10:30  | Labs (OO-Vehicle) 
+9:00 - 10:30  | Labs (OO-Vehicle) - Turing
 10:30 - 12:00   | Intro to Views
 1:00 - 2:00    | Labs
 2:00 - 2:30ish    | Guest Lecture
-3:00 - 3:30ish    | Lecture (Review OO-Vehicle)
+3:00 - 3:30ish    | Lecture (Review OO-Vehicle) - Kay
 4:00 - 6:00 | Labs
 
 ## Videos
