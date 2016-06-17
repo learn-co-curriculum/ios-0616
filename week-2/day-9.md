@@ -13,5 +13,6 @@ Time       | Plan     |
 ## Videos
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nUj1saMCoFQ?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=nUj1saMCoFQ">6-16 Morning</a></p>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3ZC5TddHXdM?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=3ZC5TddHXdM">6-16 Afternoon</a></p>
