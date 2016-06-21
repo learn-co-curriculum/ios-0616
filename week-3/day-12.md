@@ -7,9 +7,10 @@ Time       | Plan     |
 9:00 - 11:30  | Labs (feeling advanced? Check out hella cells)
 11:30 - 12:00   | Guest Lecture
 12:00 - 1:00   | UITableViews Lecture
-1:00 - 3:30    | Labs (focus on hella cells)
-3:30-4:45     | Blogs and Review Hella Cells
-4:45-6       | Labs
+1:00 - 2:00    | Lunch/Labs (focus on hella cells)
+2:00 - 3:30   | Communication Workshop
+3:30-4:30     | Blogs
+4:30-6       | Labs
 
 ## Resources
 
