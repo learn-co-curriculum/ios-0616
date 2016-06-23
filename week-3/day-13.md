@@ -18,5 +18,4 @@ We will review Blackjack Views tomorrow morning so finish it up, if you haven't 
 ![Alt Text](http://i.makeagif.com/media/9-27-2015/Rqhfvi.gif)
 
 ## Videos
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gaIs5q2tW5g?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=gaIs5q2tW5g">Hella Cells lab review</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KrTwV_Ip04Q?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=KrTwV_Ip04Q">Hella Cells lab review</a></p>
