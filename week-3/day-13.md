@@ -5,7 +5,7 @@ Week 3 // :blue_heart:
 Time       | Plan     |
 ----------------|-------
 9:30 - 10:30  | Lecture - Review Hella Cells - Kay
-11:00 - 12:00 | Lecture & Blogs - Kay
+11:00 - 12:00 | Blogs - Kay
 12:00 - 1:00   | Lunch
 1:00 - 3:00    | Labs
 3:00 - 4:30   | Peer Learning
