@@ -20,3 +20,6 @@ Time       | Plan     |
 ## Videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DKVowYsp4IU?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=DKVowYsp4IU">6-23 Morning</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4yL8Nir3C8E?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=4yL8Nir3C8E">6-23 Afternoon</a></p>
+
