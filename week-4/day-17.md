@@ -4,6 +4,8 @@ Week 4 // :blue_heart:
 
 These constraints are constrainedly straining.
 
+![Alt Text](https://imgflip.com/readImage?iid=64710416)
+
 Time       | Plan     |
 ----------------|-------
 9:00 - 11:00  | Labs
