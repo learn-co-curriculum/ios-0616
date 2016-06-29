@@ -17,4 +17,4 @@ Time       | Plan     |
 
 ## Videos
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2g0jR4KfT80?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=2g0jR4KfT80">6-28 Morning</a></p>
