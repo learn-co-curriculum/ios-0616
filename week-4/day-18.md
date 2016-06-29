@@ -16,5 +16,7 @@ Time       | Plan     |
 3:00 - 4:30ish   | Blogs/Discuss Swift/Review Fonting Awesome
 4:30ish-6     | Labs
 
+![](https://render.bitstrips.com/v2/cpanel/9947051-119412954_4-s1-v1.png?palette=1)
+
 ## Videos
 
