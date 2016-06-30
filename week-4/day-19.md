@@ -5,7 +5,7 @@ Week 4 // :blue_heart:
 Time       | Plan     |
 ----------------|-------
 9:00 - 9:45  | FISP Talk (Kay)
-11:00 - 12:00 | Lecture (Turing)
+11:00 - 12:00 | Lecture - Singletons and Data Holding (Turing)
 12:00 - 1:00    | Lunch
 2:00 - 3:30   | Movement Workshop (Kay?)
 4:00 - 5:00   | Lecture (Room TBD)
