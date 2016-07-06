@@ -13,8 +13,8 @@ Time       | Plan     |
 11:00 - 12:00 | Swift Lecture (Bool, Conditionals, Switch)
 12:00 - 1:00    | Lunch
 1:00 - 3:30    | Do labs, readings, also be you
-3:30 - 4:00   | Blogs - feel good about all the blogress being made
-4:00 - 5:00   | _POSSIBLE_ Lecture On Arrays (Might be tomorrow instead)
+3:30 - 4:00   | Blogs - feel good about all the blogress being made(Kay)
+4:00 - 5:00   | _POSSIBLE_ Lecture On Arrays (Might be tomorrow instead)Kay
 5:00 - 6:00    | Work hard!
 
 
