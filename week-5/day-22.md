@@ -23,3 +23,7 @@ Time       | Plan     |
 
 ### Math, Booleans, Conditionals, Switch statements Lecture
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/T4EuDfJJ1IQ/0.jpg)](http://www.youtube.com/watch?v=T4EuDfJJ1IQ "Math, Switch, Condtitionals Lecture")
+
+### Arrays
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/8CSNrxBOIv8/0.jpg)](http://www.youtube.com/watch?v=8CSNrxBOIv8 "Arrays")
+
