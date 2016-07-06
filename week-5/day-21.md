@@ -1,4 +1,4 @@
-# Day 21  - Friday, July 5, 2016 
+# Day 21  - Tuesday, July 5, 2016 
 
 Week 5 // :blue_heart:
 
