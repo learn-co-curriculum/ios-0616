@@ -21,4 +21,5 @@ Time       | Plan     |
 
 ## Videos
 
-* Soon....
+### Math, Booleans, Conditionals, Switch statements Lecture
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/T4EuDfJJ1IQ/0.jpg)](http://www.youtube.com/watch?v=T4EuDfJJ1IQ "Math, Switch, Condtitionals Lecture")
