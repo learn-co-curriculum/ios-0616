@@ -11,7 +11,7 @@
 
 Time       | Plan     |
 ----------------|-------
-9:00 - 10:00  | Work on various readings/labs
+9:00 - 11:00  | Work on various readings/labs
 11:00 - 12:00 | Blogs (in Kay)
 12:00 - 1:00    | Lunch
 1:00 - 3:15    | Work on various readings/labs
