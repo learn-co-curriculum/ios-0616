@@ -22,8 +22,14 @@ Time       | Plan     |
 ## Videos
 
 ### Math, Booleans, Conditionals, Switch statements Lecture
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/T4EuDfJJ1IQ/0.jpg)](http://www.youtube.com/watch?v=T4EuDfJJ1IQ "Math, Switch, Condtitionals Lecture")
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T4EuDfJJ1IQ?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=T4EuDfJJ1IQ">Math, Switch, Conditionals Lecture</a></p>
+
+
 
 ### Arrays
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/8CSNrxBOIv8/0.jpg)](http://www.youtube.com/watch?v=8CSNrxBOIv8 "Arrays")
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8CSNrxBOIv8?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=8CSNrxBOIv8">Arrays</a></p>
+
+
 
