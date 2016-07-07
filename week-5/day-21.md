@@ -16,10 +16,12 @@ Time       | Plan     |
 ## Videos
 
 ### 10 AM Lecture Video - Into To Swift
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/B_bTj-h4ZF0/0.jpg)](http://www.youtube.com/watch?v=B_bTj-h4ZF0 "Intro To Swift")
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B_bTj-h4ZF0?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=B_bTj-h4ZF0">Intro to Swift</a></p>
 
 
 ### Bonus video covering some material we will be covering tomorrow morning
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/XQt_8hFEZFA/0.jpg)](http://www.youtube.com/watch?v=XQt_8hFEZFA "Math, Switch, Condtitionals")
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XQt_8hFEZFA?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=XQt_8hFEZFA">Bonus Video - Math, Switch, Conditionals</a></p>
+
 
