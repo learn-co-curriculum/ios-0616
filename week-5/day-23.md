@@ -12,11 +12,12 @@
 Time       | Plan     |
 ----------------|-------
 9:00 - 10:00  | Work on various readings/labs
-11:00 - 12:00 | Blogs
+11:00 - 12:00 | Blogs (in Kay)
 12:00 - 1:00    | Lunch
 1:00 - 3:15    | Work on various readings/labs
-3:15 - 4:00   | **Optionals & Tuples lecture**
-4:00 - 6:00    | Work on various readings/labs
+3:15 - 4:00   | **Optionals & Tuples lecture** (in Kay)
+4:00 - 5:00    | Work on various readings/labs
+5:00 - 6:00    | Meditatio Workshop (in Turking)
 
 
 
