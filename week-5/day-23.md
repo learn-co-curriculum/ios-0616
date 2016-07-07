@@ -1,0 +1,25 @@
+# Day 23  - Thursday, July 7, 2016 
+
+### Week 5
+
+## Swift !
+
+### Your reaction when you see Optionals today:
+![Drawing](https://media.giphy.com/media/13VwQTPKuKMrgk/giphy.gif)
+
+
+
+Time       | Plan     |
+----------------|-------
+9:00 - 10:00  | Work on various readings/labs
+11:00 - 12:00 | Blogs
+12:00 - 1:00    | Lunch
+1:00 - 3:15    | Work on various readings/labs
+3:15 - 4:00   | **Optionals & Tuples lecture**
+4:00 - 6:00    | Work on various readings/labs
+
+
+
+## Videos
+
+Coming to a theatre near you...
