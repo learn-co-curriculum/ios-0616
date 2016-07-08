@@ -33,3 +33,8 @@ Time       | Plan     |
 
 ### Classes Overview [Bonus video]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XosYrU36f24?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=XosYrU36f24">Classes Overview</a></p>
+
+---
+
+### Structs Overview [Bonus video]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cFJnkrn_C-8?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=cFJnkrn_C-8">Structs Overview</a></p>
