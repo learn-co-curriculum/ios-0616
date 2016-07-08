@@ -13,12 +13,14 @@
 Time       | Plan     |
 ----------------|-------
 9:00 - 11:00  | Work on various readings/labs
-11:00 - 11:30 | Blogs
+11:00 - 11:30 | Blogs (in Kay)
 11:30 - 12:00 | Work on various readings/labs
 12:00 - 1:00    | Lunch
 1:00 - 3:00    | Work on various readings/labs
-3:00 - 4:00   | **Dictionaries Lecture**
-4:00 - 6:00    | Work on various readings/labs
+3:00 - 4:00   | **Dictionaries Lecture** (in Kay)
+4:10 - 5:00    | Feelings (in Kay)
+5:00 - 6:00    | Work on various readings/labs
+
 
 
 
