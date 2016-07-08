@@ -26,5 +26,6 @@ Time       | Plan     |
 
 ## Videos
 
-I will be posting 15 min. videos on both Classes & Structs. How to make them, use them, etc. That will be something you can watch over the weekend or today to prepare for Monday (if you like).
+### Lecture on Dictionaries - Swift
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZL2bQEYFzOE?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=ZL2bQEYFzOE">Dictionary Lecture</a></p>
 
