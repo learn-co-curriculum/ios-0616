@@ -29,3 +29,7 @@ Time       | Plan     |
 ### Lecture on Dictionaries - Swift
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZL2bQEYFzOE?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=ZL2bQEYFzOE">Dictionary Lecture</a></p>
 
+---
+
+### Classes Overview [Bonus video]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XosYrU36f24?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=XosYrU36f24">Classes Overview</a></p>
