@@ -26,14 +26,14 @@ Time       | Plan     |
 
 ### viewLifeCycle Solution Video
 
-[Roll The Dice](https://github.com/learn-co-students/swift-viewLifeCycle-lab-ios-0616) <-- lab associated with this solution
+[Lab](https://github.com/learn-co-students/swift-viewLifeCycle-lab-ios-0616)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/twTIL1U6DfI?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=twTIL1U6DfI">viewLifeCycle Solution</a></p>
 
 ---
 
 ### switchLab Solution Video
 
-[switchLab](https://github.com/learn-co-students/swift-switchLab-lab-ios-0616) <-- Link to the lab associated with this solution
+[Lab](https://github.com/learn-co-students/swift-switchLab-lab-ios-0616)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TyfoNQsTkvk?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=TyfoNQsTkvk">switchLab solution</a></p>
 
@@ -41,7 +41,7 @@ Time       | Plan     |
 
 ### mathBoolOpConSwitch Solution Video
 
-[mathBoolOpConSwitch](https://github.com/learn-co-students/swift-mathBoolOpConSwitch-lab-ios-0616) <-- link to the lab
+[Lab](https://github.com/learn-co-students/swift-mathBoolOpConSwitch-lab-ios-0616)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3aysZ0YE26w?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=3aysZ0YE26w">mathBoolOpConSwitch Solution</a></p>
 
@@ -49,7 +49,7 @@ Time       | Plan     |
 
 ### functionLab Solution Video
 
-[functionLab](https://github.com/learn-co-students/swift-functionLab-lab-ios-0616) <-- link to the lab associated with this solution
+[Lab](https://github.com/learn-co-students/swift-functionLab-lab-ios-0616)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7vxFYheR87s?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=7vxFYheR87s">functionLab Solution</a></p>
 
@@ -57,7 +57,7 @@ Time       | Plan     |
 
 ### firstTask Solution Video
 
-[firstTask](https://github.com/learn-co-students/swift-firstTask-playground-ios-0616) <-- link to the lab associated with this solution
+[Lab](https://github.com/learn-co-students/swift-firstTask-playground-ios-0616)  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QF25LnwCJWQ?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=QF25LnwCJWQ">firstTask Solution</a></p>
 
