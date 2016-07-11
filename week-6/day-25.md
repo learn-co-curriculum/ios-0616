@@ -24,6 +24,12 @@ Time       | Plan     |
 
 ## Videos
 
+### LECTURE VIDEO (classes & structs)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJ-g6XEAFJ0?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=RJ-g6XEAFJ0">Classes and Structs</a></p>
+
+---
+
 ### viewLifeCycle Solution Video
 
 [Lab](https://github.com/learn-co-students/swift-viewLifeCycle-lab-ios-0616)
