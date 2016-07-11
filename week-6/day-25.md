@@ -1,0 +1,69 @@
+# Day 25  - Monday, July 11, 2016 
+
+### Week 6
+
+## Swift
+
+> Don't watch the clock; do what it does. Keep going. -[Sam Levenson](https://en.wikipedia.org/wiki/Sam_Levenson)
+
+
+
+
+
+Time       | Plan     |
+----------------|-------
+9:00 - 11:00  | Work on various readings/labs
+11:00 - 12:00 | **Classes & Structs Lecture** (in Kay)
+12:00 - 1:00    | Lunch
+1:00 - 3:00    | Work on various readings/labs
+3:00 - 3:30   | Blogs (in Kay)
+3:30 - 6:00    | Work on various readings/labs
+
+
+
+
+## Videos
+
+### viewLifeCycle Solution Video
+
+[Roll The Dice](https://github.com/learn-co-students/swift-viewLifeCycle-lab-ios-0616) <-- lab associated with this solution
+<iframe width="560" height="315" src="https://www.youtube.com/embed/twTIL1U6DfI?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=twTIL1U6DfI">viewLifeCycle Solution</a></p>
+
+---
+
+### switchLab Solution Video
+
+* Well... looks like we didn't give you this lab yet :) - I will be deploying this soon.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TyfoNQsTkvk?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=TyfoNQsTkvk">switchLab solution</a></p>
+
+---
+
+### mathBoolOpConSwitch Solution Video
+
+* Didn't give you this lab either (yet), I fail. I will be deploying this soon.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3aysZ0YE26w?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=3aysZ0YE26w">mathBoolOpConSwitch Solution</a></p>
+
+---
+
+### functionLab Solution Video
+
+[functionLab](https://github.com/learn-co-students/swift-functionLab-lab-ios-0616) <-- link to the lab associated with this solution
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7vxFYheR87s?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=7vxFYheR87s">functionLab Solution</a></p>
+
+---
+
+### firstTask Solution Video
+
+[firstTask](https://github.com/learn-co-students/swift-firstTask-playground-ios-0616) <-- link to the lab associated with this solution
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QF25LnwCJWQ?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=QF25LnwCJWQ">firstTask Solution</a></p>
+
+---
+
+
+
+
+
