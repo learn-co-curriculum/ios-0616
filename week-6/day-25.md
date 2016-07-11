@@ -33,7 +33,7 @@ Time       | Plan     |
 
 ### switchLab Solution Video
 
-* Well... looks like we didn't give you this lab yet :) - I will be deploying this soon.
+[switchLab](https://github.com/learn-co-students/swift-switchLab-lab-ios-0616) <-- Link to the lab associated with this solution
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TyfoNQsTkvk?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=TyfoNQsTkvk">switchLab solution</a></p>
 
@@ -41,7 +41,7 @@ Time       | Plan     |
 
 ### mathBoolOpConSwitch Solution Video
 
-* Didn't give you this lab either (yet), I fail. I will be deploying this soon.
+[mathBoolOpConSwitch](https://github.com/learn-co-students/swift-mathBoolOpConSwitch-lab-ios-0616) <-- link to the lab
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3aysZ0YE26w?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=3aysZ0YE26w">mathBoolOpConSwitch Solution</a></p>
 
@@ -70,7 +70,6 @@ Time       | Plan     |
 
 ### Structs Overview [Bonus video]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cFJnkrn_C-8?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=cFJnkrn_C-8">Structs Overview</a></p>
-
 
 
 
