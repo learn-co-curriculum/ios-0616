@@ -25,7 +25,9 @@ Time       | Plan     |
 
 
 
+### Videos
 
+Bonus videos on protocols & extensions to be released end of day or tonight.
 
 
 
