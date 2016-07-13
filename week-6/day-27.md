@@ -5,6 +5,7 @@
 ## Swift
 
 ![pokemon](http://i.imgur.com/ohCOFND.gif)
+http://i.imgur.com/ohCOFND.gif
 
 
 
