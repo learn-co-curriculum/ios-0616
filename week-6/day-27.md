@@ -13,13 +13,12 @@ http://i.imgur.com/ohCOFND.gif
 
 Time       | Plan     |
 ----------------|-------
-9:00 - 11:00  | Work on various readings/labs
-11:00 - 12:00 | **Extensions Lecture** (in Kay)
+9:00 - 10:30  | Work on various readings/labs
+10:30 - 12:00 | **Extensions & Protocols Lecture** (in Kay) w/ 10 min. break
 12:00 - 1:00    | Lunch
 1:00 - 3:00    | Work on various readings/labs
-3:00 - 4:00   | **Protocols Lecture** (in Kay)
-4:15 - 4:30    | Blogs
-4:30 - 6:00    | Work on various readings/labs
+3:00 - 3:30  | Blogs
+3:30 - 6:00    | Work on various readings/labs
 
 
 
