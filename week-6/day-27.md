@@ -33,5 +33,9 @@ Time       | Plan     |
 
 ---
 
+### Extensions and Protocols Lecture Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hB7Pj5s1UoQ?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=hB7Pj5s1UoQ">Extension Protocol Lecture Video</a></p>
+
 
 
