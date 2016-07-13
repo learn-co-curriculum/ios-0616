@@ -4,7 +4,7 @@
 
 ## Swift
 
-![pokemon](http://i.imgur.com/3rjAr7Y.gif)
+![pokemon](http://i.imgur.com/ohCOFND.gif)
 
 
 
