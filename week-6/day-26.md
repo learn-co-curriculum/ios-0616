@@ -20,7 +20,8 @@ Time       | Plan     |
 ----------------|-------
 9:00 - 12:00  | Work on various readings/labs
 12:00 - 1:00    | Lunch
-1:00 - 6:00    | Work on various readings/labs
+3:00 - 330 | Blogs (Kay)
+3:30 - 6:00    | Work on various readings/labs
 
 
 
