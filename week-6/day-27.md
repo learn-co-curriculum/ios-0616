@@ -30,7 +30,7 @@ Time       | Plan     |
 
 [Lab](https://github.com/learn-co-students/swift-arrayChallengeToo-lab-ios-0616)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kv-UnTFIqTk?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=kv-UnTFIqTk">arrayChallengeTooSolution Solution</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kv-UnTFIqTk?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=kv-UnTFIqTk">arrayChallengeTooSolution Solution Video</a></p>
 
 ---
 
