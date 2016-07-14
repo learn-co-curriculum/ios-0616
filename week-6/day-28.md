@@ -14,3 +14,8 @@ Time       | Plan     |
 
 ## Videos
 
+### Blackjack Solution Video
+
+[Lab](https://github.com/learn-co-students/swift-blackjack-lab-ios-0616)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1w46kjXVN1w?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=1w46kjXVN1w">BlackjackSolution Video</a></p>
