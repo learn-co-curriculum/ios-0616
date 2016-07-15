@@ -9,7 +9,7 @@ Time       | Plan     |
 11:00 - 12:00 | Touches Lecture
 12:00 - 1:00    | Lunch
 1:00 - 3:00    | Labs
-3:00 - 4:00  | Blogs and Review Animated Validator
-4:00 - 6:00    | Labs - Teachers off the floor for company meeting
+3:00 - 4:00  | WhiteBoarding
+4:00 - 5:00    | Feels
 
 ## Videos
