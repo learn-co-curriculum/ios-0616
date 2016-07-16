@@ -13,3 +13,5 @@ Time       | Plan     |
 4:00 - 5:00    | Feels
 
 ## Videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rxGU2IAvmxQ?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=rxGU2IAvmxQ">7-15 Morning</a></p>
