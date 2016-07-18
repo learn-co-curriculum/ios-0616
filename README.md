@@ -1,1 +1,1 @@
-week-6/day-29.md
+week-7/day-30.md
