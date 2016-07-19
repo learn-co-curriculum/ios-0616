@@ -14,5 +14,5 @@ Time       | Plan     |
 12:00 - 1:00    | Lunch
 1:00 - 4:00    | Labs
 4:00 - 5:00  | Blogs, Let's do a Whiteboarding problem together
-5:90 - 6:00    | Labs/Teacher Planning Period
+5:00 - 6:00    | Labs/Teacher Planning Period
 
