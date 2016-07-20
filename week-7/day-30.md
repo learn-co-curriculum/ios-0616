@@ -19,3 +19,5 @@ Time       | Plan     |
 ## Videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XnnbEQNIMz0?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=XnnbEQNIMz0">7-18 Morning</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l_9aTJQPBF0?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=l_9aTJQPBF0">7-18 Afternoon Assessment Review</a></p>
