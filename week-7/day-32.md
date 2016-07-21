@@ -11,4 +11,9 @@ Time       | Plan     |
 4:00 - 6:00    | Labs/Teacher Planning Period
 
 
+##Videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t2JMqEkNqEs?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=t2JMqEkNqEs">7-20 Afternoon Core Data</a></p>
+
+
 
