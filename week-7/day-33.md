@@ -14,3 +14,6 @@ slapchat-relationships)
 ## Videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dy0A0sPWBnw?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=dy0A0sPWBnw">7-21 Morning</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vXInMADWk0Y?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=vXInMADWk0Y">CoreData-Relationships</a></p>
+
