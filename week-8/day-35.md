@@ -9,5 +9,5 @@ Time       | Plan     |
 1:00 - 3:00    | Labs
 3:00 - 3:30  | Blogs (Turing)
 3:30 - 4:30  | Pickin' Fruit Lab Review
-4:30 - 6:00    | Labs
+4:30 - 6:00    | Guest Speaker David Rodriguez (Turing)
 
