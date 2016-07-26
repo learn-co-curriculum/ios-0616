@@ -12,6 +12,7 @@ Time       | Plan     |
 4:30 - 6:00    | Guest Speaker David Rodriguez (Turing)
 
 ##Videos
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RbyUXnJIXww?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=RbyUXnJIXww">7-25 Morning</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q7TWjy6S1ss?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=Q7TWjy6S1ss">PickerView Delegate Review</a></p>
 
