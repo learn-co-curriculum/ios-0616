@@ -15,3 +15,5 @@ Time       | Plan     |
 ##Videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d_Qjb4tXgcg?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=d_Qjb4tXgcg">7-28 Morning</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XomoTwwz2j4?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=XomoTwwz2j4">Github Repository Starring</a></p>
