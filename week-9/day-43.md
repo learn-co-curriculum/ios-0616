@@ -9,8 +9,7 @@ Time       | Plan     |
 1:00 - 2:00    | More Brainstorming
 2:00-3:00    | Idea Presentations (5 minutes per group!)
 3:00 - 5:00  | Labs
-5-6           | Career Services Talk in Kay: Elevator Pitch and Interviewing
-Best Practices
+5-6           | Career Services Talk in Kay: Elevator Pitch and Interviewing Best Practices
 
 ## Videos
 
