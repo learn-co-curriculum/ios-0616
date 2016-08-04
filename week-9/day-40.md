@@ -11,3 +11,7 @@ Time       | Plan     |
 4:30-6           | Labs
 
 ## Videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qG_Cylooqe0?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=qG_Cylooqe0">08-2 Morning</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lBE6_ZxDa-Y?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=lBE6_ZxDa-Y">08 - 2 Afternoon</a></p>
