@@ -12,3 +12,5 @@ Time       | Plan     |
 4:30 - 6:00  | Even More work on projects!
 
 ## Videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hzlZjTr-Z6s?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=hzlZjTr-Z6s">Map-Reduce</a></p>
